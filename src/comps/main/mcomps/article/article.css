@@ -1,0 +1,7 @@
+.article {
+  grid-area: article;
+  width: 60vw;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  background-color: green;
+}
